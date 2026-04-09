@@ -24,18 +24,19 @@ namespace Prog1_Practica_Git_PettinatiMartinez;
         public string MostrarTodas()
     {
         
-
+string resultado = "";
         if (Mascotas.Count == 0)
         {
             return "No hay";
         } else
         {
+
             foreach (var mascota in Mascotas)
             {
-                string si = Convert.ToString(mascota.ObtenerInfo);
-                return $"Mascota: {si}";
+                resultado += $"Mascota: {mascota.ObtenerInfo()}";
             }
         }
+        return resultado;
     }
 
     }
