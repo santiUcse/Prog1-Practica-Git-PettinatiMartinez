@@ -1,0 +1,15 @@
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\bin\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.exe
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\bin\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.deps.json
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\bin\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.runtimeconfig.json
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\bin\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.dll
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\bin\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.pdb
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.AssemblyInfoInputs.cache
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.AssemblyInfo.cs
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.sourcelink.json
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.dll
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\refint\Prog1-Practica-Git-PettinatiMartinez.dll
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.pdb
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\Prog1-Practica-Git-PettinatiMartinez.genruntimeconfig.cache
+C:\Users\UCSE\Pictures\Screenshots\Prog1-Practica-Git-PettinatiMartinez\Prog1-Practica-Git-PettinatiMartinez\obj\Debug\net8.0\ref\Prog1-Practica-Git-PettinatiMartinez.dll
