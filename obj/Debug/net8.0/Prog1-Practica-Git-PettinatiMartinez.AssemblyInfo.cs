@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prog1-Practica-Git-PettinatiMartinez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48ae7e7600c453078d764581aba93719f3cf2e9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40368eeb8841ba87b61c571de1b07c9ddc4758ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prog1-Practica-Git-PettinatiMartinez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prog1-Practica-Git-PettinatiMartinez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
